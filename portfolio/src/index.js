@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import coverImage from "./assets/cover/cover-image.jpg";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
